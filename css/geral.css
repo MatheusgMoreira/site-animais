@@ -314,3 +314,10 @@ body {
 [data-semana].aberto::after {
   background: green;
 }
+
+.btc-preco {
+   background: green;
+   padding: .2rem .5rem;
+   font-weight: bold;
+   border-radius: 2px;
+}
